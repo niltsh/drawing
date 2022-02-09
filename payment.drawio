@@ -1,169 +1,167 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T08:34:56.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="1j9Qe7ocYVn05JOBLSbr" version="16.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-09T11:08:47.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="k2wXUVeh6nDU384I8XCj" version="16.5.3" type="github" pages="4">
   <diagram id="hP3LC-2rhvLcPAh9pIMI" name="封面">
     <mxGraphModel dx="798" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PdMEse2JsF46Ky_xkHzt-0" />
         <mxCell id="PdMEse2JsF46Ky_xkHzt-1" parent="PdMEse2JsF46Ky_xkHzt-0" />
-        <mxCell id="7rGN4jT3LdEOYtj0dIs0-0" value="此文档涉及&lt;br&gt;人物角色&lt;br&gt;1. 业务担当&lt;br&gt;2. 出纳&lt;br&gt;3. 会计&lt;br&gt;&lt;br&gt;在财务流程中，主要涉及的要素&lt;br&gt;票（业务担当），帐（会计），钱（出纳）&lt;br&gt;&lt;br&gt;财务流程的目的是为了整理各个角色针对各个要素需要分担负责的内容。&lt;br&gt;&lt;br&gt;文档中操作方法主要针对 freee" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PdMEse2JsF46Ky_xkHzt-1">
+        <mxCell id="7rGN4jT3LdEOYtj0dIs0-0" value="此文档涉及&lt;br&gt;人物角色&lt;br&gt;1. 业务担当&lt;br&gt;2. 出纳&lt;br&gt;3. 会计&lt;br&gt;&lt;br&gt;在财务流程中，主要涉及的要素&lt;br&gt;票（业务担当），帐（会计），钱（出纳）&lt;br&gt;&lt;br&gt;财务流程的目的是为了整理各个角色针对各个要素需要分担负责的内容。&lt;br&gt;&lt;br&gt;文档中操作方法主要针对 freee" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PdMEse2JsF46Ky_xkHzt-1" vertex="1">
           <mxGeometry x="120" y="170" width="490" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="f7Flo-iBX4hWTuaSyyRk-0" value="每个月&lt;br&gt;1. &lt;b&gt;1日&lt;/b&gt; 将 每个银行 上个月的明细下载后放入 google drive/银行&lt;br&gt;2. 将 信用卡明细 下载后放入 google drive/信用卡" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PdMEse2JsF46Ky_xkHzt-1">
+        <mxCell id="f7Flo-iBX4hWTuaSyyRk-0" value="每个月&lt;br&gt;1. &lt;b&gt;1日&lt;/b&gt; 将 每个银行 上个月的明细下载后放入 google drive/银行&lt;br&gt;2. &lt;b&gt;11日 &lt;/b&gt;将 AMEX信用卡的 明细上载到 freee ファイルボックス&lt;br&gt;3, 11日 将 银行和信用卡已经产生的 支出记录，收集票据上载到 freee ファイルボックス&lt;br&gt;4. 月末 将 上月的票据上载到 freee ファイルボックス" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PdMEse2JsF46Ky_xkHzt-1" vertex="1">
           <mxGeometry x="120" y="400" width="580" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="收款" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1258" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="798" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VJM_Q92yg44bH_gRQ9JA-1" value="业务担当" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="VJM_Q92yg44bH_gRQ9JA-1" value="业务担当" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="50" y="110" width="420" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="ZBDzv8es6TVhq5sRqvrg-1" value="发行 请求书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+        <mxCell id="ZBDzv8es6TVhq5sRqvrg-1" value="发行 请求书" style="rounded=1;whiteSpace=wrap;html=1;" parent="VJM_Q92yg44bH_gRQ9JA-1" vertex="1">
           <mxGeometry x="40" y="110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZBDzv8es6TVhq5sRqvrg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-2" target="ZBDzv8es6TVhq5sRqvrg-1">
+        <mxCell id="ZBDzv8es6TVhq5sRqvrg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-2" target="ZBDzv8es6TVhq5sRqvrg-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZBDzv8es6TVhq5sRqvrg-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+        <mxCell id="ZBDzv8es6TVhq5sRqvrg-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="VJM_Q92yg44bH_gRQ9JA-1" vertex="1">
           <mxGeometry x="85" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-4" target="ZBDzv8es6TVhq5sRqvrg-5">
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-4" target="ZBDzv8es6TVhq5sRqvrg-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZBDzv8es6TVhq5sRqvrg-4" value="等待 freee 抓取到入金记录" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+        <mxCell id="ZBDzv8es6TVhq5sRqvrg-4" value="等待 freee 抓取到入金记录" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="VJM_Q92yg44bH_gRQ9JA-1" vertex="1">
           <mxGeometry x="40" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-5" target="4wHwnUmT3Ndf71GFjB0Y-3">
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-5" target="4wHwnUmT3Ndf71GFjB0Y-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZBDzv8es6TVhq5sRqvrg-5" value="由 &amp;nbsp;freee抓取到入金记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+        <mxCell id="ZBDzv8es6TVhq5sRqvrg-5" value="freee抓取到入金记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="VJM_Q92yg44bH_gRQ9JA-1" vertex="1">
           <mxGeometry x="25" y="315" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-3" value="根据 &lt;b&gt;入金记录&lt;/b&gt; 和 &lt;b&gt;请求书&lt;/b&gt; 生成 &lt;b&gt;取引記録&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-3" value="根据 &lt;b&gt;入金记录&lt;/b&gt; 和 &lt;b&gt;请求书&lt;/b&gt; 生成 &lt;b&gt;取引記録&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="VJM_Q92yg44bH_gRQ9JA-1" vertex="1">
           <mxGeometry x="15" y="400" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-5" value="需要 确认 请求书的&lt;br&gt;1.支付期限&lt;br&gt;2.备考中【由对方支付 手数料】" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;fillColor=#fff2cc;strokeColor=#d6b656;size=30;position=0.16;align=left;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-5" value="需要 确认 请求书的&lt;br&gt;1.支付期限&lt;br&gt;2.备考中【由对方支付 手数料】" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;fillColor=#fff2cc;strokeColor=#d6b656;size=30;position=0.16;align=left;" parent="VJM_Q92yg44bH_gRQ9JA-1" vertex="1">
           <mxGeometry x="160" y="30" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-6" value="1. 确认 口座信息正确&lt;br&gt;2. 确认 科目 正确&lt;br&gt;3. 确认 备考中计入详细的项目，花费用途类信息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=40;position=0.08;position2=0;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-6" value="1. 确认 口座信息正确&lt;br&gt;2. 确认 科目 正确&lt;br&gt;3. 确认 备考中计入详细的项目，花费用途类信息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=40;position=0.08;position2=0;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="VJM_Q92yg44bH_gRQ9JA-1" vertex="1">
           <mxGeometry x="190" y="320" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VJM_Q92yg44bH_gRQ9JA-2" value="出纳" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="VJM_Q92yg44bH_gRQ9JA-2" value="出纳" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="470" y="110" width="200" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="VJM_Q92yg44bH_gRQ9JA-5" value="会计" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="VJM_Q92yg44bH_gRQ9JA-5" value="会计" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="670" y="110" width="280" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-8" value="确认后 打 确认tag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-5">
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-8" value="确认后 打 确认tag" style="rounded=1;whiteSpace=wrap;html=1;" parent="VJM_Q92yg44bH_gRQ9JA-5" vertex="1">
           <mxGeometry x="50" y="520" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wHwnUmT3Ndf71GFjB0Y-3" target="4wHwnUmT3Ndf71GFjB0Y-8">
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4wHwnUmT3Ndf71GFjB0Y-3" target="4wHwnUmT3Ndf71GFjB0Y-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="cE1Wlm5ofdMPgio7Bnxj" name="付款-请求书">
-    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="798" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lhXzS-GeDIaGtKJ_q96J-0" />
         <mxCell id="lhXzS-GeDIaGtKJ_q96J-1" parent="lhXzS-GeDIaGtKJ_q96J-0" />
-        <mxCell id="scV5NQsn65mwujqe_w0i-0" value="业务担当" style="swimlane;" vertex="1" parent="lhXzS-GeDIaGtKJ_q96J-1">
+        <mxCell id="scV5NQsn65mwujqe_w0i-0" value="业务担当" style="swimlane;" parent="lhXzS-GeDIaGtKJ_q96J-1" vertex="1">
           <mxGeometry x="60" y="110" width="350" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="f_RGRdm7YDmim6mDSlt3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="scV5NQsn65mwujqe_w0i-0" source="f_RGRdm7YDmim6mDSlt3-0" target="f_RGRdm7YDmim6mDSlt3-1">
+        <mxCell id="f_RGRdm7YDmim6mDSlt3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="scV5NQsn65mwujqe_w0i-0" source="f_RGRdm7YDmim6mDSlt3-0" target="f_RGRdm7YDmim6mDSlt3-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_RGRdm7YDmim6mDSlt3-0" value="收到请求书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="scV5NQsn65mwujqe_w0i-0">
+        <mxCell id="f_RGRdm7YDmim6mDSlt3-0" value="收到请求书" style="rounded=1;whiteSpace=wrap;html=1;" parent="scV5NQsn65mwujqe_w0i-0" vertex="1">
           <mxGeometry x="40" y="50" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_RGRdm7YDmim6mDSlt3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="scV5NQsn65mwujqe_w0i-0" source="f_RGRdm7YDmim6mDSlt3-1" target="f_RGRdm7YDmim6mDSlt3-4">
+        <mxCell id="f_RGRdm7YDmim6mDSlt3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="scV5NQsn65mwujqe_w0i-0" source="f_RGRdm7YDmim6mDSlt3-1" target="f_RGRdm7YDmim6mDSlt3-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_RGRdm7YDmim6mDSlt3-1" value="上传至 &lt;b&gt;freee ファイルボックス&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="scV5NQsn65mwujqe_w0i-0">
+        <mxCell id="f_RGRdm7YDmim6mDSlt3-1" value="上传至 &lt;b&gt;freee ファイルボックス&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="scV5NQsn65mwujqe_w0i-0" vertex="1">
           <mxGeometry x="40" y="130" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f_RGRdm7YDmim6mDSlt3-4" value="在 &lt;b&gt;ファイルボックス → コメント&lt;/b&gt; 中发送通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="scV5NQsn65mwujqe_w0i-0">
+        <mxCell id="f_RGRdm7YDmim6mDSlt3-4" value="在 &lt;b&gt;ファイルボックス → コメント&lt;/b&gt; 中发送通知" style="rounded=1;whiteSpace=wrap;html=1;" parent="scV5NQsn65mwujqe_w0i-0" vertex="1">
           <mxGeometry x="30" y="210" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TIFyWsb9pRrh5VltVeZ2-4" value="コメント&amp;nbsp;中需要包括&lt;br&gt;1. 支付期限&lt;br&gt;2. 支付内容解释，项目信息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.08;position2=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="scV5NQsn65mwujqe_w0i-0">
+        <mxCell id="TIFyWsb9pRrh5VltVeZ2-4" value="コメント&amp;nbsp;中需要包括&lt;br&gt;1. 支付期限&lt;br&gt;2. 支付内容解释，项目信息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.08;position2=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="scV5NQsn65mwujqe_w0i-0" vertex="1">
           <mxGeometry x="180" y="160" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="scV5NQsn65mwujqe_w0i-1" value="出纳" style="swimlane;" vertex="1" parent="lhXzS-GeDIaGtKJ_q96J-1">
+        <mxCell id="scV5NQsn65mwujqe_w0i-1" value="出纳" style="swimlane;" parent="lhXzS-GeDIaGtKJ_q96J-1" vertex="1">
           <mxGeometry x="410" y="110" width="200" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="f_RGRdm7YDmim6mDSlt3-3" value="根据　&lt;b&gt;ファイルボックス&lt;/b&gt; 和 &lt;b&gt;出金记录&lt;/b&gt; 生成 &lt;b&gt;取引記録&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="scV5NQsn65mwujqe_w0i-1">
+        <mxCell id="f_RGRdm7YDmim6mDSlt3-3" value="根据　&lt;b&gt;ファイルボックス&lt;/b&gt; 和 &lt;b&gt;出金记录&lt;/b&gt; 生成 &lt;b&gt;取引記録&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="scV5NQsn65mwujqe_w0i-1" vertex="1">
           <mxGeometry x="15" y="250" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TIFyWsb9pRrh5VltVeZ2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="scV5NQsn65mwujqe_w0i-1" source="f_RGRdm7YDmim6mDSlt3-5" target="f_RGRdm7YDmim6mDSlt3-2">
+        <mxCell id="TIFyWsb9pRrh5VltVeZ2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="scV5NQsn65mwujqe_w0i-1" source="f_RGRdm7YDmim6mDSlt3-5" target="f_RGRdm7YDmim6mDSlt3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_RGRdm7YDmim6mDSlt3-5" value="收到 付款通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="scV5NQsn65mwujqe_w0i-1">
+        <mxCell id="f_RGRdm7YDmim6mDSlt3-5" value="收到 付款通知" style="rounded=1;whiteSpace=wrap;html=1;" parent="scV5NQsn65mwujqe_w0i-1" vertex="1">
           <mxGeometry x="40" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TIFyWsb9pRrh5VltVeZ2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="scV5NQsn65mwujqe_w0i-1" source="f_RGRdm7YDmim6mDSlt3-2" target="f_RGRdm7YDmim6mDSlt3-3">
+        <mxCell id="TIFyWsb9pRrh5VltVeZ2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="scV5NQsn65mwujqe_w0i-1" source="f_RGRdm7YDmim6mDSlt3-2" target="f_RGRdm7YDmim6mDSlt3-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_RGRdm7YDmim6mDSlt3-2" value="网银执行付款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="scV5NQsn65mwujqe_w0i-1">
+        <mxCell id="f_RGRdm7YDmim6mDSlt3-2" value="网银执行付款" style="rounded=1;whiteSpace=wrap;html=1;" parent="scV5NQsn65mwujqe_w0i-1" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="scV5NQsn65mwujqe_w0i-2" value="会计" style="swimlane;" vertex="1" parent="lhXzS-GeDIaGtKJ_q96J-1">
+        <mxCell id="scV5NQsn65mwujqe_w0i-2" value="会计" style="swimlane;" parent="lhXzS-GeDIaGtKJ_q96J-1" vertex="1">
           <mxGeometry x="610" y="110" width="200" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="FObcxtqkjX_joYUubTzN-0" value="确认后 打 确认tag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="scV5NQsn65mwujqe_w0i-2">
+        <mxCell id="FObcxtqkjX_joYUubTzN-0" value="确认后 打 确认tag" style="rounded=1;whiteSpace=wrap;html=1;" parent="scV5NQsn65mwujqe_w0i-2" vertex="1">
           <mxGeometry x="15" y="370" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zfqEK8mXETFwj2HwNNKU-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="lhXzS-GeDIaGtKJ_q96J-1" source="f_RGRdm7YDmim6mDSlt3-4" target="f_RGRdm7YDmim6mDSlt3-5">
+        <mxCell id="zfqEK8mXETFwj2HwNNKU-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="lhXzS-GeDIaGtKJ_q96J-1" source="f_RGRdm7YDmim6mDSlt3-4" target="f_RGRdm7YDmim6mDSlt3-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FObcxtqkjX_joYUubTzN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="lhXzS-GeDIaGtKJ_q96J-1" source="f_RGRdm7YDmim6mDSlt3-3" target="FObcxtqkjX_joYUubTzN-0">
+        <mxCell id="FObcxtqkjX_joYUubTzN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="lhXzS-GeDIaGtKJ_q96J-1" source="f_RGRdm7YDmim6mDSlt3-3" target="FObcxtqkjX_joYUubTzN-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-wVmNRxXz1zxM62I7D7n" name="付款-公司信用卡">
-    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="760" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PMSKEqaPQ_SmTEYjm-Jw-0" />
         <mxCell id="PMSKEqaPQ_SmTEYjm-Jw-1" parent="PMSKEqaPQ_SmTEYjm-Jw-0" />
-        <mxCell id="AxMvmheuBIAll3w_Sc74-0" value="业务担当" style="swimlane;" vertex="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1">
-          <mxGeometry x="60" y="110" width="290" height="410" as="geometry" />
+        <mxCell id="AxMvmheuBIAll3w_Sc74-0" value="业务担当" style="swimlane;" parent="PMSKEqaPQ_SmTEYjm-Jw-1" vertex="1">
+          <mxGeometry x="40" y="40" width="290" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="1JOc8JL39mY7HAKZ5VcR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AxMvmheuBIAll3w_Sc74-0" source="1JOc8JL39mY7HAKZ5VcR-0" target="1JOc8JL39mY7HAKZ5VcR-1">
+        <mxCell id="1JOc8JL39mY7HAKZ5VcR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="AxMvmheuBIAll3w_Sc74-0" source="1JOc8JL39mY7HAKZ5VcR-0" target="1JOc8JL39mY7HAKZ5VcR-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1JOc8JL39mY7HAKZ5VcR-0" value="每月11日&lt;br&gt;将&lt;b&gt; AMEX 的上月明细&lt;/b&gt;放入 freee &lt;b&gt;ファイルボックス&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AxMvmheuBIAll3w_Sc74-0">
-          <mxGeometry x="10" y="50" width="180" height="70" as="geometry" />
+        <mxCell id="1JOc8JL39mY7HAKZ5VcR-0" value="&lt;b&gt;每月10日&lt;/b&gt;&lt;br&gt;JL 将&lt;b&gt; AMEX 的上月明细&lt;/b&gt;放入 freee &lt;b&gt;ファイルボックス&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="AxMvmheuBIAll3w_Sc74-0" vertex="1">
+          <mxGeometry x="55" y="150" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1JOc8JL39mY7HAKZ5VcR-1" value="&lt;b&gt;所有使用卡片的人&lt;/b&gt;，将 AMEX 明细中&lt;b&gt;涉及款项的领收书&lt;/b&gt; 放入 freee &lt;b&gt;ファイルボックス&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AxMvmheuBIAll3w_Sc74-0">
-          <mxGeometry x="10" y="140" width="180" height="60" as="geometry" />
+        <mxCell id="1KNji7uyLkgqxiRG-Iq0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AxMvmheuBIAll3w_Sc74-0" source="1JOc8JL39mY7HAKZ5VcR-1" target="1KNji7uyLkgqxiRG-Iq0-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AxMvmheuBIAll3w_Sc74-1" value="出纳" style="swimlane;" vertex="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1">
-          <mxGeometry x="350" y="110" width="200" height="410" as="geometry" />
+        <mxCell id="1JOc8JL39mY7HAKZ5VcR-1" value="&lt;b&gt;所有使用卡片的人&lt;/b&gt;，将 AMEX 明细中&lt;b&gt;涉及款项的领收书&lt;/b&gt; 放入 freee &lt;b&gt;ファイルボックス&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="AxMvmheuBIAll3w_Sc74-0" vertex="1">
+          <mxGeometry x="20" y="250" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AxMvmheuBIAll3w_Sc74-2" value="会计" style="swimlane;" vertex="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1">
-          <mxGeometry x="550" y="110" width="200" height="410" as="geometry" />
+        <mxCell id="lE-MANJ5OZcKSo0z8f2d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AxMvmheuBIAll3w_Sc74-0" source="lE-MANJ5OZcKSo0z8f2d-0" target="1JOc8JL39mY7HAKZ5VcR-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="w4UZPbJohAq0fnszggtD" name="付款-个人垫付">
-    <mxGraphModel dx="798" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="ccnptiWn15_tdWHkwnDp-0" />
-        <mxCell id="ccnptiWn15_tdWHkwnDp-1" parent="ccnptiWn15_tdWHkwnDp-0" />
-        <mxCell id="y7FqC8VHN5tCqLIjLcv3-0" value="业务担当" style="swimlane;" vertex="1" parent="ccnptiWn15_tdWHkwnDp-1">
-          <mxGeometry x="60" y="110" width="200" height="410" as="geometry" />
+        <mxCell id="lE-MANJ5OZcKSo0z8f2d-0" value="&lt;b&gt;每月 10日&lt;/b&gt;&lt;br&gt;QZY 将 &lt;b&gt;Amazon 的领收书&lt;/b&gt;统一放到 &lt;b&gt;freee フィルボックス&lt;br&gt;&lt;/b&gt;（领收书 抓取范围为 上上月23日 ～ 上月22日，即AMEX扣款结算周期）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AxMvmheuBIAll3w_Sc74-0">
+          <mxGeometry x="10" y="40" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y7FqC8VHN5tCqLIjLcv3-1" value="出纳" style="swimlane;" vertex="1" parent="ccnptiWn15_tdWHkwnDp-1">
-          <mxGeometry x="300" y="110" width="200" height="410" as="geometry" />
+        <mxCell id="1KNji7uyLkgqxiRG-Iq0-0" value="参照 AMEX 明细，&lt;br&gt;将其中涉及到的扣款款项，登录为 &lt;b&gt;取引記録&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AxMvmheuBIAll3w_Sc74-0">
+          <mxGeometry x="20" y="350" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y7FqC8VHN5tCqLIjLcv3-2" value="会计" style="swimlane;" vertex="1" parent="ccnptiWn15_tdWHkwnDp-1">
-          <mxGeometry x="550" y="110" width="200" height="410" as="geometry" />
+        <mxCell id="AxMvmheuBIAll3w_Sc74-1" value="出纳" style="swimlane;" parent="PMSKEqaPQ_SmTEYjm-Jw-1" vertex="1">
+          <mxGeometry x="330" y="40" width="300" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="AxMvmheuBIAll3w_Sc74-2" value="会计" style="swimlane;" parent="PMSKEqaPQ_SmTEYjm-Jw-1" vertex="1">
+          <mxGeometry x="630" y="40" width="320" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="1KNji7uyLkgqxiRG-Iq0-2" value="目前的调研结果&lt;br&gt;&lt;br&gt;1. Amazon API 的结果最大的意义在于出局票据证据，但是freee 的 Amazon API 无法得到 领收书，无法作为 法定保存义务的文件。因此意义不大。&lt;br&gt;&lt;br&gt;2. Amazon Business 有 一次性下载指定区间内所有 领收书功能，因此 之前出现的一张一张开 领收书的问题也不存在了。&lt;br&gt;&lt;br&gt;3. 和 个人垫付不同，公司信用卡在记账时 钱的记录已经生成 （个人垫付时为，钱票帐一起生成）&lt;br&gt;&amp;nbsp; &amp;nbsp; 因此信用卡记账的主要工作在 讲已有的钱的记录 和 票联系在一起生成帐。&lt;br&gt;&lt;br&gt;4. 目前考虑有两种做法&lt;br&gt;&amp;nbsp; &amp;nbsp; 1. 电子文件处理方法&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 在 相应的信用卡账户中，直接针对每条明细生成 取引、并且在生成取引的时候直接将 文件 附上。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 这种方法比较适合 原本就是电子pdf 的领收书，可以通过预览文件 根据价格和品类直接记账&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; 2. 通过 手机 将 纸质票据拍摄入 ファイルボックス&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 然后 直接在 AMEX 的未登录明细中，将所有的本期内需要登录的项目直接做好 取引&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 然后 在 アフィルボックス 中 【既存の取引に添付】将文件直接附在 相应的 取引中" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1">
+          <mxGeometry x="40" y="640" width="570" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
