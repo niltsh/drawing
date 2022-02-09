@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T02:10:59.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="KwcU7yp4ImL73B0o0AdI" version="16.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-09T05:21:23.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="irFt1YUMAZDmDMCgVfVg" version="16.5.3" type="github" pages="5">
   <diagram id="hP3LC-2rhvLcPAh9pIMI" name="封面">
     <mxGraphModel dx="798" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PdMEse2JsF46Ky_xkHzt-0" />
         <mxCell id="PdMEse2JsF46Ky_xkHzt-1" parent="PdMEse2JsF46Ky_xkHzt-0" />
+        <mxCell id="7rGN4jT3LdEOYtj0dIs0-0" value="此文档涉及&lt;br&gt;人物角色&lt;br&gt;1. 业务担当&lt;br&gt;2. 出纳&lt;br&gt;3. 会计&lt;br&gt;&lt;br&gt;在财务流程中，主要涉及的要素&lt;br&gt;票（业务担当），帐（会计），钱（出纳）&lt;br&gt;&lt;br&gt;财务流程的目的是为了整理各个角色针对各个要素需要分担负责的内容。&lt;br&gt;&lt;br&gt;文档中操作方法主要针对 freee" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PdMEse2JsF46Ky_xkHzt-1">
+          <mxGeometry x="120" y="170" width="490" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="f7Flo-iBX4hWTuaSyyRk-0" value="每个月&lt;br&gt;1. &lt;b&gt;1日&lt;/b&gt; 将 每个银行 上个月的明细下载后放入 google drive/银行&lt;br&gt;2. 将 信用卡明细 下载后放入 google drive/信用卡" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PdMEse2JsF46Ky_xkHzt-1">
+          <mxGeometry x="120" y="400" width="580" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -12,6 +18,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VJM_Q92yg44bH_gRQ9JA-1" value="业务担当" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="420" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBDzv8es6TVhq5sRqvrg-1" value="发行 请求书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+          <mxGeometry x="40" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBDzv8es6TVhq5sRqvrg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-2" target="ZBDzv8es6TVhq5sRqvrg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBDzv8es6TVhq5sRqvrg-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+          <mxGeometry x="85" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-4" target="ZBDzv8es6TVhq5sRqvrg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBDzv8es6TVhq5sRqvrg-4" value="等待 freee 抓取到入金记录" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+          <mxGeometry x="40" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-5" target="4wHwnUmT3Ndf71GFjB0Y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBDzv8es6TVhq5sRqvrg-5" value="由 &amp;nbsp;freee抓取到入金记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+          <mxGeometry x="25" y="315" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-3" value="根据 &lt;b&gt;入金记录&lt;/b&gt; 和 &lt;b&gt;请求书&lt;/b&gt; 生成 &lt;b&gt;取引記録&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+          <mxGeometry x="15" y="400" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-5" value="需要 确认 请求书的&lt;br&gt;1.支付期限&lt;br&gt;2.备考中【由对方支付 手数料】" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;fillColor=#fff2cc;strokeColor=#d6b656;size=30;position=0.16;align=left;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+          <mxGeometry x="160" y="30" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-6" value="1. 确认 口座信息正确&lt;br&gt;2. 确认 科目 正确&lt;br&gt;3. 确认 备考中计入详细的项目，花费用途类信息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=40;position=0.08;position2=0;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-1">
+          <mxGeometry x="190" y="320" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VJM_Q92yg44bH_gRQ9JA-2" value="出纳" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="200" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="VJM_Q92yg44bH_gRQ9JA-5" value="会计" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="670" y="110" width="280" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-8" value="确认后 打 确认tag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJM_Q92yg44bH_gRQ9JA-5">
+          <mxGeometry x="50" y="520" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wHwnUmT3Ndf71GFjB0Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wHwnUmT3Ndf71GFjB0Y-3" target="4wHwnUmT3Ndf71GFjB0Y-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -20,6 +71,15 @@
       <root>
         <mxCell id="lhXzS-GeDIaGtKJ_q96J-0" />
         <mxCell id="lhXzS-GeDIaGtKJ_q96J-1" parent="lhXzS-GeDIaGtKJ_q96J-0" />
+        <mxCell id="scV5NQsn65mwujqe_w0i-0" value="业务担当" style="swimlane;" vertex="1" parent="lhXzS-GeDIaGtKJ_q96J-1">
+          <mxGeometry x="60" y="110" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="scV5NQsn65mwujqe_w0i-1" value="出纳" style="swimlane;" vertex="1" parent="lhXzS-GeDIaGtKJ_q96J-1">
+          <mxGeometry x="300" y="110" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="scV5NQsn65mwujqe_w0i-2" value="会计" style="swimlane;" vertex="1" parent="lhXzS-GeDIaGtKJ_q96J-1">
+          <mxGeometry x="550" y="110" width="200" height="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -28,6 +88,15 @@
       <root>
         <mxCell id="PMSKEqaPQ_SmTEYjm-Jw-0" />
         <mxCell id="PMSKEqaPQ_SmTEYjm-Jw-1" parent="PMSKEqaPQ_SmTEYjm-Jw-0" />
+        <mxCell id="AxMvmheuBIAll3w_Sc74-0" value="业务担当" style="swimlane;" vertex="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1">
+          <mxGeometry x="60" y="110" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="AxMvmheuBIAll3w_Sc74-1" value="出纳" style="swimlane;" vertex="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1">
+          <mxGeometry x="300" y="110" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="AxMvmheuBIAll3w_Sc74-2" value="会计" style="swimlane;" vertex="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1">
+          <mxGeometry x="550" y="110" width="200" height="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -36,6 +105,15 @@
       <root>
         <mxCell id="ccnptiWn15_tdWHkwnDp-0" />
         <mxCell id="ccnptiWn15_tdWHkwnDp-1" parent="ccnptiWn15_tdWHkwnDp-0" />
+        <mxCell id="y7FqC8VHN5tCqLIjLcv3-0" value="业务担当" style="swimlane;" vertex="1" parent="ccnptiWn15_tdWHkwnDp-1">
+          <mxGeometry x="60" y="110" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="y7FqC8VHN5tCqLIjLcv3-1" value="出纳" style="swimlane;" vertex="1" parent="ccnptiWn15_tdWHkwnDp-1">
+          <mxGeometry x="300" y="110" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="y7FqC8VHN5tCqLIjLcv3-2" value="会计" style="swimlane;" vertex="1" parent="ccnptiWn15_tdWHkwnDp-1">
+          <mxGeometry x="550" y="110" width="200" height="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
