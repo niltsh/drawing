@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T05:48:48.296Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="71MNL2fF1rpddSpvltn3" version="16.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-09T08:27:28.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="2Pkro477dj5I7x-A6uZL" version="16.5.3" type="github" pages="5">
   <diagram id="hP3LC-2rhvLcPAh9pIMI" name="封面">
     <mxGraphModel dx="798" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="收款" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="798" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1258" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cE1Wlm5ofdMPgio7Bnxj" name="付款-请求书">
-    <mxGraphModel dx="798" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lhXzS-GeDIaGtKJ_q96J-0" />
         <mxCell id="lhXzS-GeDIaGtKJ_q96J-1" parent="lhXzS-GeDIaGtKJ_q96J-0" />
@@ -126,15 +126,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-wVmNRxXz1zxM62I7D7n" name="付款-公司信用卡">
-    <mxGraphModel dx="798" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PMSKEqaPQ_SmTEYjm-Jw-0" />
         <mxCell id="PMSKEqaPQ_SmTEYjm-Jw-1" parent="PMSKEqaPQ_SmTEYjm-Jw-0" />
         <mxCell id="AxMvmheuBIAll3w_Sc74-0" value="业务担当" style="swimlane;" vertex="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1">
-          <mxGeometry x="60" y="110" width="200" height="410" as="geometry" />
+          <mxGeometry x="60" y="110" width="290" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1JOc8JL39mY7HAKZ5VcR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AxMvmheuBIAll3w_Sc74-0" source="1JOc8JL39mY7HAKZ5VcR-0" target="1JOc8JL39mY7HAKZ5VcR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1JOc8JL39mY7HAKZ5VcR-0" value="每月11日&lt;br&gt;将&lt;b&gt; AMEX 的上月明细&lt;/b&gt;放入 freee &lt;b&gt;ファイルボックス&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AxMvmheuBIAll3w_Sc74-0">
+          <mxGeometry x="10" y="50" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1JOc8JL39mY7HAKZ5VcR-1" value="&lt;b&gt;所有使用卡片的人&lt;/b&gt;，将 AMEX 明细中&lt;b&gt;涉及款项的领收书&lt;/b&gt; 放入 freee &lt;b&gt;ファイルボックス&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AxMvmheuBIAll3w_Sc74-0">
+          <mxGeometry x="10" y="140" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AxMvmheuBIAll3w_Sc74-1" value="出纳" style="swimlane;" vertex="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1">
-          <mxGeometry x="300" y="110" width="200" height="410" as="geometry" />
+          <mxGeometry x="350" y="110" width="200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="AxMvmheuBIAll3w_Sc74-2" value="会计" style="swimlane;" vertex="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1">
           <mxGeometry x="550" y="110" width="200" height="410" as="geometry" />
