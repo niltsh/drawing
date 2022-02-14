@@ -1,27 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T15:13:44.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="Ri7bjtW-loGlB7lYk5W-" version="16.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-14T02:33:00.735Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="6f0QjtXC3I0KvPOFUzKg" version="16.5.6" type="github" pages="4">
   <diagram id="hP3LC-2rhvLcPAh9pIMI" name="封面">
-    <mxGraphModel dx="380" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PdMEse2JsF46Ky_xkHzt-0" />
         <mxCell id="PdMEse2JsF46Ky_xkHzt-1" parent="PdMEse2JsF46Ky_xkHzt-0" />
-        <mxCell id="7rGN4jT3LdEOYtj0dIs0-0" value="此文档涉及&lt;br&gt;人物角色&lt;br&gt;1. 业务担当&lt;br&gt;2. 出纳&lt;br&gt;3. 会计&lt;br&gt;&lt;br&gt;在财务流程中，主要涉及的要素&lt;br&gt;票（业务担当），帐（会计），钱（出纳）&lt;br&gt;&lt;br&gt;财务流程的目的是为了整理各个角色针对各个要素需要分担负责的内容。&lt;br&gt;&lt;br&gt;文档中操作方法主要针对 freee" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PdMEse2JsF46Ky_xkHzt-1" vertex="1">
-          <mxGeometry x="120" y="170" width="490" height="190" as="geometry" />
+        <mxCell id="7rGN4jT3LdEOYtj0dIs0-0" value="此文档涉及&lt;br&gt;人物角色&lt;br&gt;1. 业务担当&lt;br&gt;2. 出纳&lt;br&gt;3. 会计&lt;br&gt;&lt;br&gt;在财务流程中，主要涉及的要素&lt;br&gt;票 -&amp;gt; ファイルボックス -&amp;gt;&amp;nbsp;（业务担当）&lt;br&gt;钱 -&amp;gt; 明細（出纳）&lt;br&gt;帐 -&amp;gt; 取引（会计）&lt;br&gt;&lt;br&gt;财务流程的目的是为了整理各个角色针对各个要素需要分担负责的内容。&lt;br&gt;&lt;br&gt;文档中操作方法主要针对 freee中的操作方法" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PdMEse2JsF46Ky_xkHzt-1" vertex="1">
+          <mxGeometry x="120" y="170" width="490" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="f7Flo-iBX4hWTuaSyyRk-0" value="每个月&lt;br&gt;1. &lt;b&gt;1日&lt;/b&gt; 将 每个银行 上个月的明细下载后放入 google drive/银行&lt;br&gt;2. &lt;b&gt;11日 &lt;/b&gt;将 AMEX信用卡的 明细上载到 freee ファイルボックス&lt;br&gt;3, 11日 将 银行和信用卡已经产生的 支出记录，收集票据上载到 freee ファイルボックス&lt;br&gt;4. 月末 将 上月的票据上载到 freee ファイルボックス" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PdMEse2JsF46Ky_xkHzt-1" vertex="1">
-          <mxGeometry x="120" y="400" width="580" height="100" as="geometry" />
+        <mxCell id="f7Flo-iBX4hWTuaSyyRk-0" value="每月Routine操作&lt;br&gt;1. &amp;nbsp;&amp;nbsp;&lt;br&gt;2. &lt;b&gt;11日 &lt;/b&gt;将 AMEX信用卡的 明细上载到 freee ファイルボックス&lt;br&gt;3, 11日 将 银行和信用卡已经产生的 支出记录，收集票据上载到 freee ファイルボックス&lt;br&gt;4. 月末 将 上月的票据上载到 freee ファイルボックス" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PdMEse2JsF46Ky_xkHzt-1" vertex="1">
+          <mxGeometry x="120" y="400" width="580" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="收款" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="751" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VJM_Q92yg44bH_gRQ9JA-1" value="业务担当" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="50" y="110" width="420" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="AyIvwFpxbM6GMR0EXPc--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-1" target="ZBDzv8es6TVhq5sRqvrg-4">
+        <mxCell id="AyIvwFpxbM6GMR0EXPc--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="VJM_Q92yg44bH_gRQ9JA-1" source="ZBDzv8es6TVhq5sRqvrg-1" target="ZBDzv8es6TVhq5sRqvrg-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZBDzv8es6TVhq5sRqvrg-1" value="发行 请求书" style="rounded=1;whiteSpace=wrap;html=1;" parent="VJM_Q92yg44bH_gRQ9JA-1" vertex="1">
@@ -70,7 +70,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cE1Wlm5ofdMPgio7Bnxj" name="付款-请求书">
-    <mxGraphModel dx="901" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lhXzS-GeDIaGtKJ_q96J-0" />
         <mxCell id="lhXzS-GeDIaGtKJ_q96J-1" parent="lhXzS-GeDIaGtKJ_q96J-0" />
