@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T02:33:00.735Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="6f0QjtXC3I0KvPOFUzKg" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-14T02:37:16.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="tuW_SQjA4-o0yG0xt0nc" version="16.5.6" type="github" pages="4">
   <diagram id="hP3LC-2rhvLcPAh9pIMI" name="封面">
     <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,45 +129,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-wVmNRxXz1zxM62I7D7n" name="付款-公司信用卡">
-    <mxGraphModel dx="751" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PMSKEqaPQ_SmTEYjm-Jw-0" />
         <mxCell id="PMSKEqaPQ_SmTEYjm-Jw-1" parent="PMSKEqaPQ_SmTEYjm-Jw-0" />
         <mxCell id="AxMvmheuBIAll3w_Sc74-0" value="业务担当" style="swimlane;" parent="PMSKEqaPQ_SmTEYjm-Jw-1" vertex="1">
           <mxGeometry x="40" y="40" width="290" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="1JOc8JL39mY7HAKZ5VcR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="AxMvmheuBIAll3w_Sc74-0" source="1JOc8JL39mY7HAKZ5VcR-0" target="1JOc8JL39mY7HAKZ5VcR-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1JOc8JL39mY7HAKZ5VcR-0" value="&lt;b&gt;每月10日&lt;/b&gt;&lt;br&gt;JL 将&lt;b&gt; AMEX 的上月利用履歴書&lt;/b&gt;放入 freee &lt;b&gt;ファイルボックス&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="AxMvmheuBIAll3w_Sc74-0" vertex="1">
-          <mxGeometry x="55" y="150" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="1KNji7uyLkgqxiRG-Iq0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="AxMvmheuBIAll3w_Sc74-0" source="1JOc8JL39mY7HAKZ5VcR-1" target="1KNji7uyLkgqxiRG-Iq0-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1JOc8JL39mY7HAKZ5VcR-1" value="&lt;b&gt;所有使用卡片的人&lt;/b&gt;，将 AMEX 明细中&lt;b&gt;涉及款项的领收书&lt;/b&gt; 放入 freee &lt;b&gt;ファイルボックス&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="AxMvmheuBIAll3w_Sc74-0" vertex="1">
-          <mxGeometry x="20" y="250" width="250" height="60" as="geometry" />
+        <mxCell id="1JOc8JL39mY7HAKZ5VcR-0" value="&lt;b&gt;每月10日之前&lt;/b&gt;&lt;br&gt;各自确保 「利用履歴書」中出现的款项都已经登录到 &lt;b&gt;freee/取引&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="AxMvmheuBIAll3w_Sc74-0" vertex="1">
+          <mxGeometry x="55" y="180" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lE-MANJ5OZcKSo0z8f2d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="AxMvmheuBIAll3w_Sc74-0" source="lE-MANJ5OZcKSo0z8f2d-0" target="1JOc8JL39mY7HAKZ5VcR-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lE-MANJ5OZcKSo0z8f2d-0" value="&lt;b&gt;每月 10日&lt;/b&gt;&lt;br&gt;QZY 将 &lt;b&gt;Amazon 的领收书&lt;/b&gt;统一放到 &lt;b&gt;freee フィルボックス&lt;br&gt;&lt;/b&gt;（领收书 抓取范围为 上上月23日 ～ 上月22日，即AMEX扣款结算周期）" style="rounded=1;whiteSpace=wrap;html=1;" parent="AxMvmheuBIAll3w_Sc74-0" vertex="1">
+        <mxCell id="lE-MANJ5OZcKSo0z8f2d-0" value="&lt;strong&gt;每月1日&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;将上月AMEX的「利用履歴書」下载放入 freee/ファイルボックス @sonnyjiang&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="AxMvmheuBIAll3w_Sc74-0" vertex="1">
           <mxGeometry x="10" y="40" width="270" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1KNji7uyLkgqxiRG-Iq0-0" value="参照 AMEX 明细，&lt;br&gt;将其中涉及到的扣款款项，登录为 &lt;b&gt;取引記録&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="AxMvmheuBIAll3w_Sc74-0" vertex="1">
-          <mxGeometry x="20" y="350" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AxMvmheuBIAll3w_Sc74-1" value="出纳" style="swimlane;" parent="PMSKEqaPQ_SmTEYjm-Jw-1" vertex="1">
           <mxGeometry x="330" y="40" width="300" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="KXKHA1LLMFyiSv8HTDPd-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="AxMvmheuBIAll3w_Sc74-1" source="XYDcIYsv_OCC3rt9Ks-c-0" target="XYDcIYsv_OCC3rt9Ks-c-2">
+        <mxCell id="KXKHA1LLMFyiSv8HTDPd-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="AxMvmheuBIAll3w_Sc74-1" source="XYDcIYsv_OCC3rt9Ks-c-0" target="XYDcIYsv_OCC3rt9Ks-c-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XYDcIYsv_OCC3rt9Ks-c-0" value="每月10日&lt;br&gt;确认到 AMEX 的 利用履歴書之后" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="AxMvmheuBIAll3w_Sc74-1">
-          <mxGeometry x="60" y="60" width="200" height="80" as="geometry" />
+        <mxCell id="XYDcIYsv_OCC3rt9Ks-c-0" value="每月11日&lt;br&gt;确认到 AMEX 的 利用履歴書之后" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="AxMvmheuBIAll3w_Sc74-1" vertex="1">
+          <mxGeometry x="60" y="100" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XYDcIYsv_OCC3rt9Ks-c-2" value="对照 履歴書 中的扣款项，将相应的 取引 打 【消し込】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AxMvmheuBIAll3w_Sc74-1">
-          <mxGeometry x="75" y="190" width="170" height="60" as="geometry" />
+        <mxCell id="XYDcIYsv_OCC3rt9Ks-c-2" value="对照 履歴書 中的扣款项，将相应的 取引 打 【消し込確認済み】" style="rounded=1;whiteSpace=wrap;html=1;" parent="AxMvmheuBIAll3w_Sc74-1" vertex="1">
+          <mxGeometry x="75" y="260" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AxMvmheuBIAll3w_Sc74-2" value="会计" style="swimlane;" parent="PMSKEqaPQ_SmTEYjm-Jw-1" vertex="1">
           <mxGeometry x="630" y="40" width="320" height="580" as="geometry" />
@@ -175,8 +163,10 @@
         <mxCell id="1KNji7uyLkgqxiRG-Iq0-2" value="目前的调研结果&lt;br&gt;&lt;br&gt;1. Amazon API 的结果最大的意义在于出局票据证据，但是freee 的 Amazon API 无法得到 领收书，无法作为 法定保存义务的文件。因此意义不大。&lt;br&gt;&lt;br&gt;2. Amazon Business 有 一次性下载指定区间内所有 领收书功能，因此 之前出现的一张一张开 领收书的问题也不存在了。&lt;br&gt;&lt;br&gt;3. 和 个人垫付不同，公司信用卡在记账时 明細的记录已经生成 （个人垫付时为，钱票帐一起生成）&lt;br&gt;&amp;nbsp; &amp;nbsp; 因此信用卡记账的主要工作在 将 已有的明細的记录 和 票联系在一起生成 取引。&lt;br&gt;&lt;br&gt;4. 目前考虑有两种做法&lt;br&gt;&amp;nbsp; &amp;nbsp; 1. 电子文件处理方法&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 在 相应的信用卡账户中，直接针对每条明细生成 取引、并且在生成取引的时候直接将 文件 附上。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 这种方法比较适合 原本就是电子pdf 的领收书，可以通过预览文件 根据价格和品类直接记账&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; 2. 通过 手机 将 纸质票据拍摄入 ファイルボックス&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 然后 直接在 AMEX 的未登录明细中，将所有的本期内需要登录的项目直接做好 取引&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 然后 在 アフィルボックス 中 【既存の取引に添付】将文件直接附在 相应的 取引中&lt;br&gt;&lt;br&gt;5. freee中并没有将 信用卡扣款明细 和 银行扣款 做 消し込的功能，因此需要手动 tag 将具体的扣款项标记出来&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PMSKEqaPQ_SmTEYjm-Jw-1" vertex="1">
           <mxGeometry x="40" y="640" width="710" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="XYDcIYsv_OCC3rt9Ks-c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="PMSKEqaPQ_SmTEYjm-Jw-1" source="1KNji7uyLkgqxiRG-Iq0-0" target="XYDcIYsv_OCC3rt9Ks-c-0">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XYDcIYsv_OCC3rt9Ks-c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="PMSKEqaPQ_SmTEYjm-Jw-1" source="1JOc8JL39mY7HAKZ5VcR-0" target="XYDcIYsv_OCC3rt9Ks-c-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="360" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
